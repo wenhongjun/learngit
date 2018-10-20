@@ -6,4 +6,5 @@ update in master branch
 I'm in the dev branch
 >>>>>>> dev
 I'm comming 
-fixed conflicts
+fixed conflict
+I'm stay at home!

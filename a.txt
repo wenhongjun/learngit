@@ -7,3 +7,4 @@ I'm in the dev branch
 >>>>>>> dev
 I'm comming 
 fixed conflicts
+test more people operate

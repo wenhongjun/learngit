@@ -7,3 +7,4 @@ I'm in the dev branch
 >>>>>>> dev
 I'm comming 
 fixed conflicts
+duo ren xiezhuo confilcts
